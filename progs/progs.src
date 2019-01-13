@@ -1,0 +1,49 @@
+../progs.dat
+
+defs.qc
+subs.qc
+fight.qc
+ai.qc
+clifunc.qc
+combat.qc
+items.qc
+weapons.qc
+world.qc
+swarm.qc
+
+client.qc
+player.qc
+monsters.qc
+doors.qc
+buttons.qc
+triggers.qc
+plats.qc
+misc.qc
+
+
+arena.qc
+newdog.qc
+newgrunt.qc
+newkni.qc
+newogre.qc
+newenf.qc
+newdemon.qc
+newwiz.qc
+newsham.qc
+
+ogre.qc
+demon.qc
+dog.qc
+shambler.qc
+knight.qc
+soldier.qc
+wizard.qc
+zombie.qc
+boss.qc
+
+tarbaby.qc		// registered
+hknight.qc		// registered
+fish.qc			// registered
+shalrath.qc		// registered
+enforcer.qc		// registered
+oldone.qc		// registered
