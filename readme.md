@@ -1,6 +1,12 @@
 SwarmQuake Readme
 -----------------
 
+I found this unreleased mod while making VR Quake. Looks like I got as far as writing a readme, but never released it - it seems kind of fun...
+
+Original Readme follows:
+
+
+
 SwarmQuake (c) Fishbiter 1999
 Quake (c) ID Software
 
@@ -16,6 +22,7 @@ Getting Started
 It's really very simple.
 
 i) Unzip the archive to a subdirectory of your main Quake dir (x).
+
 ii) Start the game using -game x
 
 eg.
@@ -23,8 +30,10 @@ eg.
 extract to c:\Quake\Swarm
 c:\quake\quake -game swarm
 
-iii) Start a deathmatch game.
+iii) Start a deathmatch game (be sure to set no max frags)
+
 iv) Kill monsters until they kill you.
+
 v) Repeat step iv until boredom kills you...
 
 
